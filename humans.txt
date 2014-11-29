@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+	Site Design: IWISHIKNEWKUNGFU and Web Development: MATTPETERNELL.com
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, PHP
+    jQuery, Modernizr
