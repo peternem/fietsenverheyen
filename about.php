@@ -51,15 +51,7 @@ $pageName = 'aboutPage';
 					<p>Fietsen Verheyen first opened in 1973. It is a family owned and family focused, full-service bicycle shop based in Diest, Belgium.  We specialize in helping you get the right bike for your needs.  An authorized E-Bike retail and servce point, we also have a full assortment of race, mountain, cyclocross, city, and children’s bikes.  We are also a fully certified mechanic and carry a full assortment of parts and accessories.</p>
 				
 				<h2>Store Hours</h2>
-				<ul>
-					<li>Monday - 10:00-12:00, 13:00-18:00</li>
-					<li>Tuesday - closed</li>
-					<li>Wednesday - 10:00-12:00, 13:00-18:00</li>
-					<li>Thursday - 13:00 - 20:00</li>
-					<li>Friday - 10:00-12:00, 13:00-18:00</li>
-					<li>Saturday - 10:00-17:00</li>
-					<li>Sunday - Closed</li>
-				</ul>
+				<?php include 'includes/hours-of-opperation.php';?>
 				
 				<h2>Phone</h2>
 				<ul>
