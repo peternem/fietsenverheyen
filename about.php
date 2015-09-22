@@ -25,7 +25,7 @@ $pageName = 'aboutPage';
 		<!--[if lt IE 7]>
 		<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 		<![endif]-->
-
+		<?php include 'includes/vacation-alert.php'?>
 		<div class="header-container">
 			<header class="wrapper clearfix">
 				<?php include 'includes/main_nav_menu.php'?>				
@@ -50,7 +50,7 @@ $pageName = 'aboutPage';
 					<h1>About</h1>
 					<p>Fietsen Verheyen first opened in 1973. It is a family owned and family focused, full-service bicycle shop based in Diest, Belgium.  We specialize in helping you get the right bike for your needs.  An authorized E-Bike retail and servce point, we also have a full assortment of race, mountain, cyclocross, city, and children’s bikes.  We are also a fully certified mechanic and carry a full assortment of parts and accessories.</p>
 				
-				<h2>Store Hours</h2>
+				<h2>Store Hours ***</h2>
 				<?php include 'includes/hours-of-opperation.php';?>
 				
 				<h2>Phone</h2>

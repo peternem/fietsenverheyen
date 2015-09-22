@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style: none;">
 	<li>Monday - 13:00-18:00</li>
 	<li>Tuesday - closed</li>
 	<li>Wednesday - 10:00-12:00, 13:00-18:00</li>

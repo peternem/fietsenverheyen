@@ -1,6 +1,9 @@
 $(document).ready(function() {
 	//$('.cycle-slideshow').cycle();
 	
+	$("a.close").click(function(){
+		$(".alert").hide('fast');
+	});
 	$(".toggle").click(function(){
 		if($(".toggle-hide").css("display") == "none" ){
 			$(".toggle-hide").show('fast');
